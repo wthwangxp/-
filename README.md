@@ -1,2 +1,2 @@
-This my first code of learning DeepSeek# -
+# -This my first code of learning DeepSeek
 basic Application
